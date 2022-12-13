@@ -1,14 +1,20 @@
 # OpenMindSpore Public Community Meeting
 
-## Meeting Notice
+## Notice for the 9th OpenMindSpore Community Meeting
+- Meeting Time: 2022-12-15 09:30-10:30 (UTC+08:00) Beijing
+- Meeting URL:  https://meeting.huaweicloud.com/welink/#/j/98503176
+- Agenda:
+    1. Discuss OpenMindSpore project plan for next year
+    2. Share the published papers from the conferences
+
+## Notice for the 8th OpenMindSpore Community Meeting
 - Meeting Time: 2022-12-09 09:30-10:30 (UTC+08:00) Beijing
 - Meeting URL:  https://meeting.huaweicloud.com/welink/#/j/98042905
 - Agenda:
     1. Update OpenMindSpore project status and plan for next year
     2. Share the published papers from the conferences
 
-## MindSpore Open Community Meeting Minutes
-
+## Minutes for the 8th OpenMindSpore Community Meeting
 **Date and Time**: 
 2022-12-09 09:30-10:30 (UTC+08:00)
 
