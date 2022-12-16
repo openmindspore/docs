@@ -7,6 +7,33 @@
     1. Discuss OpenMindSpore project plan for next year
     2. Share the published papers from the conferences
 
+
+
+## Minutes for the 9th OpenMindSpore Community Meeting
+**Date and Time**: 
+2022-12-15 09:30-10:30 (UTC+08:00)
+
+**Meeting Link**:
+https://meeting.huaweicloud.com/welink/#/j/98503176
+
+**Attendees**:
+Jiahong Qian, Jiangsheng Yu, Liya Chen, Naipan Zhu, Norbert Egi, Teng Su, Wenqing, Won Jong Jeon, Yan Zhang and Zongfang Lin
+
+**Meeting Summary**:
+1. Won review the paper, ORCA: A Distributed Serving System for Transformer Based Generative Models
+2. the community shared their feedbacks for the project strategy plan of next year.
+
+**Presentation Slides**:
+- https://github.com/openmindspore/docs/blob/main/tech_reports/ORCA%20-%20A%20Distributed%20Serving%20System.pdf
+- https://github.com/openmindspore/docs/blob/main/MSDocs/OpenMindSpore_Achievements_in_2022_and_Strategy_for_2023.pdf
+
+*All slides were published on the GitHub before this community meeting.*
+
+
+
+
+
+
 ## Notice for the 8th OpenMindSpore Community Meeting
 - Meeting Time: 2022-12-09 09:30-10:30 (UTC+08:00) Beijing
 - Meeting URL:  https://meeting.huaweicloud.com/welink/#/j/98042905
