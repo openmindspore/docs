@@ -32,8 +32,6 @@ Jiahong Qian, Jiangsheng Yu, Liya Chen, Naipan Zhu, Norbert Egi, Teng Su, Wenqin
 
 
 
-
-
 ## Notice for the 8th OpenMindSpore Community Meeting
 - Meeting Time: 2022-12-09 09:30-10:30 (UTC+08:00) Beijing
 - Meeting URL:  https://meeting.huaweicloud.com/welink/#/j/98042905
