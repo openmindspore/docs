@@ -6,6 +6,26 @@
 - Agenda:
     1. Discuss OpenMindSpore project plan for next year
 
+## Minutes for the 11th OpenMindSpore Community Meeting
+**Date and Time**: 
+2023-01-20 10:00-11:00 (UTC+08:00) Beijing
+
+**Meeting Link**:
+https://meeting.huaweicloud.com/welink/#/j/98710923
+
+**Attendees**:
+Chong Bao, Jiahong Qian, Jiangsheng Yu, Liya Chen, Norbert Egi, Wenqing, Won Jong Jeon, Yan Zhang and Zongfang Lin
+
+**Meeting Summary**:
+1. Won shared the updated plan for 2023, and the community gave feedbacks on plan
+2. Norbert shared the paper, Campo - Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training
+
+**Presentation Slides**:
+•	https://github.com/openmindspore/docs/blob/main/MSDocs/OpenMindSpore_Achievements_in_2022_and_Strategy_for_2023.pdf
+•	https://github.com/openmindspore/docs/blob/main/tech_reports/Campo%20-%20Cachew.pdf
+
+These slides were published on the GitHub before this community meeting.
+
 
 ## Notice for the 10th OpenMindSpore Community Meeting
 - Meeting Time: 2023-01-11 10:00-11:00 (UTC+08:00) Beijing
