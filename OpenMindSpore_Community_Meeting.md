@@ -18,11 +18,11 @@ Chong Bao, Jiahong Qian, Jiangsheng Yu, Liya Chen, Norbert Egi, Wenqing, Won Jon
 
 **Meeting Summary**:
 1. Won shared the updated plan for 2023, and the community gave feedbacks on plan
-2. Norbert shared the paper, Campo - Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training
+2. The community agreed on the next year plan after discussion.
+
 
 **Presentation Slides**:
 •	https://github.com/openmindspore/docs/blob/main/MSDocs/OpenMindSpore_Achievements_in_2022_and_Strategy_for_2023.pdf
-•	https://github.com/openmindspore/docs/blob/main/tech_reports/Campo%20-%20Cachew.pdf
 
 These slides were published on the GitHub before this community meeting.
 
